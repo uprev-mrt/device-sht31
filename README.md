@@ -1,29 +1,43 @@
-# README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+<h1>sht31 Device</h1>
+<ul>
+  <li> Generated with <a href="https://github.com/uprev-mrt/mrtutils/wiki/mrt-device">MrT Device Utility</a> </li>
+  <li> Bus:  I2C</li>
+  <li> RegMap: <a href="Regmap.html">Register Map</a>
+  <li>Datasheet: <a href="https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/HT_DS_SHT3x_DIS.pdf">https://media.digikey.co...</a> </li>
+  <li> DigiKey: <a href="https://www.digikey.com/products/en?KeyWords=1649-1011-1-ND">1649-1011-1-ND</a></li>
+  <li> I2C Address: 0x44</li>
+</ul>
+<hr/>
+<h2>Description: </h2>
+<p>description</p>
 
-### What is this repository for? ###
+<!--*user-block-description-start*-->
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+<!--*user-block-description-end*-->
+<br/>
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+<hr class="section">
+<h2 class="right"> Register Map</h2>
+<hr class="thick">
 
-### Contribution guidelines ###
+<table class="fields">
+    <tr>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Type</th>
+        <th>Access</th>
+        <th>Default</th>
+        <th>Description</th>
+    </tr>
 
-* Writing tests
-* Code review
-* Other guidelines
+</table>
 
-### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+
+<hr class="section">
+<h2 class="right"> Registers</h2>
+<hr class="thick">
+
+
