@@ -2,8 +2,8 @@
 name: sht31
 description: description
 datasheet: https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/HT_DS_SHT3x_DIS.pdf
-mfg: Sensirion
-mfg_pn: SHT31-DIS-B2.5KS
+mfr: Sensirion
+mfr_pn: SHT31-DIS-B2.5KS
 digikey_pn: 1649-1011-1-ND
 
 prefix: sht  #prefix used in code generation
